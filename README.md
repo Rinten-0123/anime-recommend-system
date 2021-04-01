@@ -1,2 +1,9 @@
-# anime-recommend-system
-アニメのレコメンドシステム
+#使用したデータのURL
+https://www.kaggle.com/CooperUnion/anime-recommendations-database
+
+#コードの内容説明
+データのクレンジングを行い、協調フィルタリングを用いてアニメのレコメンドの仕組みを作成
+コールドスタート問題を解決するために、アニメのジャンルやタイプによるクラスタリング行う。
+
+#今後の予定
+作成したものを用いて、Webアプリの実装を行っていく。
